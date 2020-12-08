@@ -1,0 +1,4 @@
+st-front/node_modules
+st-back/node_modules
+st-front/build
+st-back/.env
